@@ -1,2 +1,0 @@
-# Patterns
-C pattern programs
